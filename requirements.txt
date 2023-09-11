@@ -1,4 +1,5 @@
-﻿opencv-python==4.8.0.76
+pip==23.2.1
+opencv-python==4.8.0.76
 pandas==1.5.3
 scikit-learn==1.2.2
 numpy==1.25.2
