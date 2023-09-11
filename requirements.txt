@@ -3,7 +3,7 @@ pandas==1.5.3
 scikit-learn==1.2.2
 numpy==1.25.2
 matplotlib==3.2.2
-streamlit==1.21.0
+streamlit==1.26.0
 streamlit-drawable-canvas==0.9.3
 tensorflow==2.13.0
 keras==2.13.1
